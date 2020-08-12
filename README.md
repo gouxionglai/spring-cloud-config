@@ -1,2 +1,3 @@
 # springcloud-config
-spring cloud config center repository
+This is a test Demo for spring cloud config center repository.
+
